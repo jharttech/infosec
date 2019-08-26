@@ -1,2 +1,2 @@
-# infosec
-Rep for infosec tinkering
+# Free Code Camp - Applied InfoSec Challenges
+=============================================
